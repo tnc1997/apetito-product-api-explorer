@@ -1,4 +1,4 @@
-package app.thomasclark.apetito_product_api_explorer
+package app.thomasclark.apetitoproductapiexplorer
 
 import io.flutter.embedding.android.FlutterActivity
 

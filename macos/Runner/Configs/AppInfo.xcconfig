@@ -8,7 +8,7 @@
 PRODUCT_NAME = apetito_product_api_explorer
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = app.thomasclark.apetitoProductApiExplorer
+PRODUCT_BUNDLE_IDENTIFIER = app.thomasclark.apetitoproductapiexplorer
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 app.thomasclark. All rights reserved.
