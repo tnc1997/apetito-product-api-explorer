@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "app.thomasclark" "\0"
-            VALUE "FileDescription", "apetito_product_api_explorer" "\0"
+            VALUE "FileDescription", "Explorer for apetito Product API" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "apetito_product_api_explorer" "\0"
+            VALUE "InternalName", "Explorer for apetito Product API" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2025 app.thomasclark. All rights reserved." "\0"
             VALUE "OriginalFilename", "apetito_product_api_explorer.exe" "\0"
-            VALUE "ProductName", "apetito_product_api_explorer" "\0"
+            VALUE "ProductName", "Explorer for apetito Product API" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

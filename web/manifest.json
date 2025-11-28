@@ -1,6 +1,6 @@
 {
-    "name": "apetito_product_api_explorer",
-    "short_name": "apetito_product_api_explorer",
+    "name": "Explorer for apetito Product API",
+    "short_name": "Explorer for apetito Product API",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

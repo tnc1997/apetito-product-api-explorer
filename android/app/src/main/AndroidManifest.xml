@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="apetito_product_api_explorer"
+        android:label="Explorer for apetito Product API"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
