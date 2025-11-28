@@ -34,6 +34,13 @@ class MyApp extends StatelessWidget {
           dynamicSchemeVariant: DynamicSchemeVariant.fidelity,
         ),
       ),
+      darkTheme: ThemeData(
+        colorScheme: ColorScheme.fromSeed(
+          seedColor: Color(0xff105334),
+          brightness: Brightness.dark,
+          dynamicSchemeVariant: DynamicSchemeVariant.fidelity,
+        ),
+      ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
